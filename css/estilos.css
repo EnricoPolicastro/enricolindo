@@ -19,7 +19,7 @@ body {
   }
   
   a{
-    color: black;
+    color: #D3D3D3;
     text-decoration: none;
   }
   
@@ -29,7 +29,7 @@ body {
   
   .site-subtitle,
   .site-title {
-    color: black;
+    color: #D3D3D3;
     text-align: center;
   }
   
